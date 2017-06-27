@@ -64,15 +64,7 @@ def process_lines(lines,outfile,comma=True):
     output += '\n'
     
     outfile.write(output)
-              
-    
-    # Process line 0, which has
-    #  "Blah County, XY" \t 99999 \t "First Neighbor County, XY" \t 99999
-
-    # WRITE CODE HERE
-
-
-
+    return
 
 def main():
 
@@ -81,7 +73,9 @@ def main():
     with codecs.open("county_adjacency.txt","r","iso-8859-1") as infile, \
          codecs.open("county_adjacency.json","w","utf-8") as outfile:
          
- 
+
+        outfile.write('{\n')
+        
         all_lines = infile.readlines()
 
         start_idx = 0;
@@ -94,12 +88,14 @@ def main():
                end_idx += 1
 
             process_lines(all_lines[start_idx:end_idx],
-                          outfile)
+                          outfile,
+                          end_idx < len(all_lines))
 
             start_idx = end_idx
             end_idx = start_idx + 1
-               
-        return
+
+        outfile.write('}\n')     
+    return
 
 if __name__=="__main__":
     main()
