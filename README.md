@@ -16,24 +16,30 @@ The library also provides a set convenience functions for doing computations ove
 The JSON produced has this form:
 
 ```json
-{ "AL Autauga" : {
+{ "AL Autauga" : [
      "AL Autauga",
      "AL Chilton",
      "AL Dallas",
      "AL Elmore",
      "AL Lowndes",
-     "AL Montgomery"]
-  },
-  "AL Baldwin" : {
-      ["AL Baldwin",
+     "AL Montgomery"
+     ],
+  "AL Baldwin" : [
+       "AL Baldwin",
        "AL Clarke",
        "AL Escambia",
        "AL Mobile",
        "AL Monroe",
        "AL Washington",
-       "FL Escambia"]
-  },
+       "FL Escambia"
+     ],
   ...
+  "WY Weston" : [
+	"SD Custer",
+	"SD Lawrence",
+	...
+	"WY Weston"
+  ]
 }
 
 We have prefixed each county name with its state abbreviation since there are cases of the same county name occuring in multiple states (e.g. Escambia is both a county in Alabama and a separate, adjacent county in Florida.   
