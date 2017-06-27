@@ -5,9 +5,9 @@ By Phill Conrad
 
 # What this library does
 
-This library provides a Python wrapper around data from the file https://www2.census.gov/geo/docs/reference/county_adjacency.txt (a copy of which is cached in this repo), that allows a user to determine, for any US county, what counties are adjacent to that county (i.e. share a border with it.)
+This library provides a Python code that processes the data in the file https://www2.census.gov/geo/docs/reference/county_adjacency.txt (a copy of which is cached in this repo), and turns it into a JSON representation that easily allows a user to determine, for any US county, what counties are adjacent to that county (i.e. share a border with it.)
 
-
+The library also provides a set convenience functions for doing computations over this data.
 
 # Details
 
