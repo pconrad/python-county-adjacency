@@ -16058,8 +16058,8 @@
    "NM Quay",
    "NM Roosevelt"
   ],
-"NM Do±a Ana" : [
-   "NM Do±a Ana",
+"NM Do¬±a Ana" : [
+   "NM Do¬±a Ana",
    "NM Luna",
    "NM Otero",
    "NM Sierra",
@@ -16134,7 +16134,7 @@
    "NM Santa Fe"
   ],
 "NM Luna" : [
-   "NM Do±a Ana",
+   "NM Do¬±a Ana",
    "NM Grant",
    "NM Hidalgo",
    "NM Luna",
@@ -16158,7 +16158,7 @@
   ],
 "NM Otero" : [
    "NM Chaves",
-   "NM Do±a Ana",
+   "NM Do¬±a Ana",
    "NM Eddy",
    "NM Lincoln",
    "NM Otero",
@@ -16243,7 +16243,7 @@
   ],
 "NM Sierra" : [
    "NM Catron",
-   "NM Do±a Ana",
+   "NM Do¬±a Ana",
    "NM Grant",
    "NM Lincoln",
    "NM Luna",
@@ -23150,7 +23150,7 @@
    "TX Tarrant"
   ],
 "TX El Paso" : [
-   "NM Do±a Ana",
+   "NM Do¬±a Ana",
    "NM Otero",
    "TX El Paso",
    "TX Hudspeth"
@@ -28007,7 +28007,7 @@
    "PR Adjuntas Municipio",
    "PR Guayanilla Municipio",
    "PR Lares Municipio",
-   "PR PeÒuelas Municipio",
+   "PR Pe√±uelas Municipio",
    "PR Ponce Municipio",
    "PR Utuado Municipio",
    "PR Yauco Municipio"
@@ -28015,9 +28015,9 @@
 "PR Aguada Municipio" : [
    "PR Aguada Municipio",
    "PR Aguadilla Municipio",
-   "PR AÒasco Municipio",
+   "PR A√±asco Municipio",
    "PR Moca Municipio",
-   "PR RincÛn Municipio"
+   "PR Rinc√≥n Municipio"
   ],
 "PR Aguadilla Municipio" : [
    "PR Aguada Municipio",
@@ -28027,10 +28027,10 @@
   ],
 "PR Aguas Buenas Municipio" : [
    "PR Aguas Buenas Municipio",
-   "PR BayamÛn Municipio",
+   "PR Bayam√≥n Municipio",
    "PR Caguas Municipio",
    "PR Cidra Municipio",
-   "PR ComerÌo Municipio",
+   "PR Comer√≠o Municipio",
    "PR Guaynabo Municipio",
    "PR San Juan Municipio"
   ],
@@ -28042,14 +28042,14 @@
    "PR Coamo Municipio",
    "PR Salinas Municipio"
   ],
-"PR AÒasco Municipio" : [
+"PR A√±asco Municipio" : [
    "PR Aguada Municipio",
-   "PR AÒasco Municipio",
-   "PR Las MarÌas Municipio",
-   "PR Mayag¸ez Municipio",
+   "PR A√±asco Municipio",
+   "PR Las Mar√≠as Municipio",
+   "PR Mayag√ºez Municipio",
    "PR Moca Municipio",
-   "PR RincÛn Municipio",
-   "PR San Sebasti·n Municipio"
+   "PR Rinc√≥n Municipio",
+   "PR San Sebasti√°n Municipio"
   ],
 "PR Arecibo Municipio" : [
    "PR Arecibo Municipio",
@@ -28068,23 +28068,23 @@
    "PR Arecibo Municipio",
    "PR Barceloneta Municipio",
    "PR Florida Municipio",
-   "PR ManatÌ Municipio"
+   "PR Manat√≠ Municipio"
   ],
 "PR Barranquitas Municipio" : [
    "PR Aibonito Municipio",
    "PR Barranquitas Municipio",
    "PR Cidra Municipio",
    "PR Coamo Municipio",
-   "PR ComerÌo Municipio",
+   "PR Comer√≠o Municipio",
    "PR Corozal Municipio",
    "PR Naranjito Municipio",
    "PR Orocovis Municipio"
   ],
-"PR BayamÛn Municipio" : [
+"PR Bayam√≥n Municipio" : [
    "PR Aguas Buenas Municipio",
-   "PR BayamÛn Municipio",
-   "PR CataÒo Municipio",
-   "PR ComerÌo Municipio",
+   "PR Bayam√≥n Municipio",
+   "PR Cata√±o Municipio",
+   "PR Comer√≠o Municipio",
    "PR Guaynabo Municipio",
    "PR Naranjito Municipio",
    "PR Toa Alta Municipio",
@@ -28094,8 +28094,8 @@
    "PR Cabo Rojo Municipio",
    "PR Hormigueros Municipio",
    "PR Lajas Municipio",
-   "PR Mayag¸ez Municipio",
-   "PR San Germ·n Municipio"
+   "PR Mayag√ºez Municipio",
+   "PR San Germ√°n Municipio"
   ],
 "PR Caguas Municipio" : [
    "PR Aguas Buenas Municipio",
@@ -28112,29 +28112,29 @@
    "PR Hatillo Municipio",
    "PR Lares Municipio",
    "PR Quebradillas Municipio",
-   "PR San Sebastiﬂn Municipio"
+   "PR San Sebasti√ün Municipio"
   ],
-"PR CanÛvanas Municipio" : [
-   "PR CanÛvanas Municipio",
+"PR Can√≥vanas Municipio" : [
+   "PR Can√≥vanas Municipio",
    "PR Carolina Municipio",
    "PR Gurabo Municipio",
    "PR Juncos Municipio",
    "PR Las Piedras Municipio",
-   "PR LoÌza Municipio",
-   "PR RÌo Grande Municipio"
+   "PR Lo√≠za Municipio",
+   "PR R√≠o Grande Municipio"
   ],
 "PR Carolina Municipio" : [
-   "PR CanÛvanas Municipio",
+   "PR Can√≥vanas Municipio",
    "PR Carolina Municipio",
    "PR Gurabo Municipio",
    "PR Juncos Municipio",
-   "PR LoÌza Municipio",
+   "PR Lo√≠za Municipio",
    "PR San Juan Municipio",
    "PR Trujillo Alto Municipio"
   ],
-"PR CataÒo Municipio" : [
+"PR Cata√±o Municipio" : [
    "PR Bayam?n Municipio",
-   "PR CataÒo Municipio",
+   "PR Cata√±o Municipio",
    "PR Guaynabo Municipio",
    "PR San Juan Municipio",
    "PR Toa Baja Municipio"
@@ -28155,7 +28155,7 @@
    "PR Fajardo Municipio",
    "PR Luquillo Municipio",
    "PR Naguabo Municipio",
-   "PR RÌo Grande Municipio",
+   "PR R√≠o Grande Municipio",
    "PR Vieques Municipio"
   ],
 "PR Ciales Municipio" : [
@@ -28163,7 +28163,7 @@
    "PR Ciales Municipio",
    "PR Florida Municipio",
    "PR Jayuya Municipio",
-   "PR ManatÌ Municipio",
+   "PR Manat√≠ Municipio",
    "PR Morovis Municipio",
    "PR Orocovis Municipio",
    "PR Utuado Municipio"
@@ -28175,24 +28175,24 @@
    "PR Caguas Municipio",
    "PR Cayey Municipio",
    "PR Cidra Municipio",
-   "PR ComerÌo Municipio"
+   "PR Comer√≠o Municipio"
   ],
 "PR Coamo Municipio" : [
    "PR Aibonito Municipio",
    "PR Barranquitas Municipio",
    "PR Coamo Municipio",
-   "PR Juana DÌaz Municipio",
+   "PR Juana D√≠az Municipio",
    "PR Orocovis Municipio",
    "PR Salinas Municipio",
    "PR Santa Isabel Municipio",
    "PR Villalba Municipio"
   ],
-"PR ComerÌo Municipio" : [
+"PR Comer√≠o Municipio" : [
    "PR Aguas Buenas Municipio",
    "PR Barranquitas Municipio",
-   "PR BayamÛn Municipio",
+   "PR Bayam√≥n Municipio",
    "PR Cidra Municipio",
-   "PR ComerÌo Municipio",
+   "PR Comer√≠o Municipio",
    "PR Naranjito Municipio"
   ],
 "PR Corozal Municipio" : [
@@ -28224,10 +28224,10 @@
    "PR Barceloneta Municipio",
    "PR Ciales Municipio",
    "PR Florida Municipio",
-   "PR ManatÌ Municipio"
+   "PR Manat√≠ Municipio"
   ],
-"PR Gu·nica Municipio" : [
-   "PR Gu·nica Municipio",
+"PR Gu√°nica Municipio" : [
+   "PR Gu√°nica Municipio",
    "PR Guayanilla Municipio",
    "PR Lajas Municipio",
    "PR Sabana Grande Municipio",
@@ -28242,21 +28242,21 @@
   ],
 "PR Guayanilla Municipio" : [
    "PR Adjuntas Municipio",
-   "PR Gu·nica Municipio",
+   "PR Gu√°nica Municipio",
    "PR Guayanilla Municipio",
-   "PR PeÒuelas Municipio",
+   "PR Pe√±uelas Municipio",
    "PR Yauco Municipio"
   ],
 "PR Guaynabo Municipio" : [
    "PR Aguas Buenas Municipio",
-   "PR BayamÛn Municipio",
-   "PR CataÒo Municipio",
+   "PR Bayam√≥n Municipio",
+   "PR Cata√±o Municipio",
    "PR Guaynabo Municipio",
    "PR San Juan Municipio"
   ],
 "PR Gurabo Municipio" : [
    "PR Caguas Municipio",
-   "PR CanÛvanas Municipio",
+   "PR Can√≥vanas Municipio",
    "PR Carolina Municipio",
    "PR Gurabo Municipio",
    "PR Juncos Municipio",
@@ -28273,8 +28273,8 @@
 "PR Hormigueros Municipio" : [
    "PR Cabo Rojo Municipio",
    "PR Hormigueros Municipio",
-   "PR Mayag¸ez Municipio",
-   "PR San Germ·n Municipio"
+   "PR Mayag√ºez Municipio",
+   "PR San Germ√°n Municipio"
   ],
 "PR Humacao Municipio" : [
    "PR Humacao Municipio",
@@ -28287,27 +28287,27 @@
    "PR Isabela Municipio",
    "PR Moca Municipio",
    "PR Quebradillas Municipio",
-   "PR San Sebasti·n Municipio"
+   "PR San Sebasti√°n Municipio"
   ],
 "PR Jayuya Municipio" : [
    "PR Ciales Municipio",
    "PR Jayuya Municipio",
-   "PR Juana DÌaz Municipio",
+   "PR Juana D√≠az Municipio",
    "PR Orocovis Municipio",
    "PR Ponce Municipio",
    "PR Utuado Municipio"
   ],
-"PR Juana DÌaz Municipio" : [
+"PR Juana D√≠az Municipio" : [
    "PR Coamo Municipio",
    "PR Jayuya Municipio",
-   "PR Juana DÌaz Municipio",
+   "PR Juana D√≠az Municipio",
    "PR Orocovis Municipio",
    "PR Ponce Municipio",
    "PR Santa Isabel Municipio",
    "PR Villalba Municipio"
   ],
 "PR Juncos Municipio" : [
-   "PR CanÛvanas Municipio",
+   "PR Can√≥vanas Municipio",
    "PR Carolina Municipio",
    "PR Gurabo Municipio",
    "PR Juncos Municipio",
@@ -28316,68 +28316,68 @@
   ],
 "PR Lajas Municipio" : [
    "PR Cabo Rojo Municipio",
-   "PR Gu·nica Municipio",
+   "PR Gu√°nica Municipio",
    "PR Lajas Municipio",
    "PR Sabana Grande Municipio",
-   "PR San Germ·n Municipio"
+   "PR San Germ√°n Municipio"
   ],
 "PR Lares Municipio" : [
    "PR Adjuntas Municipio",
    "PR Camuy Municipio",
    "PR Hatillo Municipio",
    "PR Lares Municipio",
-   "PR Las MarÌas Municipio",
+   "PR Las Mar√≠as Municipio",
    "PR Maricao Municipio",
-   "PR San Sebasti·n Municipio",
+   "PR San Sebasti√°n Municipio",
    "PR Utuado Municipio",
    "PR Yauco Municipio"
   ],
-"PR Las MarÌas Municipio" : [
-   "PR AÒasco Municipio",
+"PR Las Mar√≠as Municipio" : [
+   "PR A√±asco Municipio",
    "PR Lares Municipio",
-   "PR Las MarÌas Municipio",
+   "PR Las Mar√≠as Municipio",
    "PR Maricao Municipio",
-   "PR Mayag¸ez Municipio",
-   "PR San Sebasti·n Municipio"
+   "PR Mayag√ºez Municipio",
+   "PR San Sebasti√°n Municipio"
   ],
 "PR Las Piedras Municipio" : [
-   "PR CanÛvanas Municipio",
+   "PR Can√≥vanas Municipio",
    "PR Humacao Municipio",
    "PR Juncos Municipio",
    "PR Las Piedras Municipio",
    "PR Naguabo Municipio",
-   "PR RÌo Grande Municipio",
+   "PR R√≠o Grande Municipio",
    "PR San Lorenzo Municipio",
    "PR Yabucoa Municipio"
   ],
-"PR LoÌza Municipio" : [
-   "PR CanÛvanas Municipio",
+"PR Lo√≠za Municipio" : [
+   "PR Can√≥vanas Municipio",
    "PR Carolina Municipio",
-   "PR LoÌza Municipio",
-   "PR RÌo Grande Municipio"
+   "PR Lo√≠za Municipio",
+   "PR R√≠o Grande Municipio"
   ],
 "PR Luquillo Municipio" : [
    "PR Ceiba Municipio",
    "PR Fajardo Municipio",
    "PR Luquillo Municipio",
-   "PR RÌo Grande Municipio"
+   "PR R√≠o Grande Municipio"
   ],
-"PR ManatÌ Municipio" : [
+"PR Manat√≠ Municipio" : [
    "PR Barceloneta Municipio",
    "PR Ciales Municipio",
    "PR Florida Municipio",
-   "PR ManatÌ Municipio",
+   "PR Manat√≠ Municipio",
    "PR Morovis Municipio",
    "PR Vega Alta Municipio",
    "PR Vega Baja Municipio"
   ],
 "PR Maricao Municipio" : [
    "PR Lares Municipio",
-   "PR Las MarÌas Municipio",
+   "PR Las Mar√≠as Municipio",
    "PR Maricao Municipio",
-   "PR Mayag¸ez Municipio",
+   "PR Mayag√ºez Municipio",
    "PR Sabana Grande Municipio",
-   "PR San Germ·n Municipio",
+   "PR San Germ√°n Municipio",
    "PR Yauco Municipio"
   ],
 "PR Maunabo Municipio" : [
@@ -28385,28 +28385,28 @@
    "PR Patillas Municipio",
    "PR Yabucoa Municipio"
   ],
-"PR Mayag¸ez Municipio" : [
-   "PR AÒasco Municipio",
+"PR Mayag√ºez Municipio" : [
+   "PR A√±asco Municipio",
    "PR Cabo Rojo Municipio",
    "PR Hormigueros Municipio",
-   "PR Las MarÌas Municipio",
+   "PR Las Mar√≠as Municipio",
    "PR Maricao Municipio",
-   "PR Mayag¸ez Municipio",
+   "PR Mayag√ºez Municipio",
    "PR Rinc?n Municipio",
-   "PR San Germ·n Municipio"
+   "PR San Germ√°n Municipio"
   ],
 "PR Moca Municipio" : [
    "PR Aguada Municipio",
    "PR Aguadilla Municipio",
-   "PR AÒasco Municipio",
+   "PR A√±asco Municipio",
    "PR Isabela Municipio",
    "PR Moca Municipio",
-   "PR San Sebasti·n Municipio"
+   "PR San Sebasti√°n Municipio"
   ],
 "PR Morovis Municipio" : [
    "PR Ciales Municipio",
    "PR Corozal Municipio",
-   "PR ManatÌ Municipio",
+   "PR Manat√≠ Municipio",
    "PR Morovis Municipio",
    "PR Orocovis Municipio",
    "PR Vega Alta Municipio",
@@ -28417,12 +28417,12 @@
    "PR Humacao Municipio",
    "PR Las Piedras Municipio",
    "PR Naguabo Municipio",
-   "PR RÌo Grande Municipio"
+   "PR R√≠o Grande Municipio"
   ],
 "PR Naranjito Municipio" : [
    "PR Barranquitas Municipio",
-   "PR BayamÛn Municipio",
-   "PR ComerÌo Municipio",
+   "PR Bayam√≥n Municipio",
+   "PR Comer√≠o Municipio",
    "PR Corozal Municipio",
    "PR Naranjito Municipio",
    "PR Toa Alta Municipio"
@@ -28433,7 +28433,7 @@
    "PR Coamo Municipio",
    "PR Corozal Municipio",
    "PR Jayuya Municipio",
-   "PR Juana DÌaz Municipio",
+   "PR Juana D√≠az Municipio",
    "PR Morovis Municipio",
    "PR Orocovis Municipio",
    "PR Villalba Municipio"
@@ -28447,17 +28447,17 @@
    "PR San Lorenzo Municipio",
    "PR Yabucoa Municipio"
   ],
-"PR PeÒuelas Municipio" : [
+"PR Pe√±uelas Municipio" : [
    "PR Adjuntas Municipio",
    "PR Guayanilla Municipio",
-   "PR PeÒuelas Municipio",
+   "PR Pe√±uelas Municipio",
    "PR Ponce Municipio"
   ],
 "PR Ponce Municipio" : [
    "PR Adjuntas Municipio",
    "PR Jayuya Municipio",
    "PR Juana D?az Municipio",
-   "PR PeÒuelas Municipio",
+   "PR Pe√±uelas Municipio",
    "PR Ponce Municipio",
    "PR Utuado Municipio"
   ],
@@ -28465,29 +28465,29 @@
    "PR Camuy Municipio",
    "PR Isabela Municipio",
    "PR Quebradillas Municipio",
-   "PR San Sebastiﬂn Municipio"
+   "PR San Sebasti√ün Municipio"
   ],
-"PR RincÛn Municipio" : [
+"PR Rinc√≥n Municipio" : [
    "PR Aguada Municipio",
-   "PR AÒasco Municipio",
-   "PR Mayag¸ez Municipio",
-   "PR RincÛn Municipio"
+   "PR A√±asco Municipio",
+   "PR Mayag√ºez Municipio",
+   "PR Rinc√≥n Municipio"
   ],
-"PR RÌo Grande Municipio" : [
+"PR R√≠o Grande Municipio" : [
    "PR Can?vanas Municipio",
    "PR Ceiba Municipio",
    "PR Las Piedras Municipio",
-   "PR LoÌza Municipio",
+   "PR Lo√≠za Municipio",
    "PR Luquillo Municipio",
    "PR Naguabo Municipio",
-   "PR RÌo Grande Municipio"
+   "PR R√≠o Grande Municipio"
   ],
 "PR Sabana Grande Municipio" : [
-   "PR Gu·nica Municipio",
+   "PR Gu√°nica Municipio",
    "PR Lajas Municipio",
    "PR Maricao Municipio",
    "PR Sabana Grande Municipio",
-   "PR San Germﬂn Municipio",
+   "PR San Germ√ün Municipio",
    "PR Yauco Municipio"
   ],
 "PR Salinas Municipio" : [
@@ -28498,20 +28498,20 @@
    "PR Salinas Municipio",
    "PR Santa Isabel Municipio"
   ],
-"PR San Germ·n Municipio" : [
+"PR San Germ√°n Municipio" : [
    "PR Cabo Rojo Municipio",
    "PR Hormigueros Municipio",
    "PR Lajas Municipio",
    "PR Maricao Municipio",
-   "PR Mayag¸ez Municipio",
+   "PR Mayag√ºez Municipio",
    "PR Sabana Grande Municipio",
-   "PR San Germ·n Municipio"
+   "PR San Germ√°n Municipio"
   ],
 "PR San Juan Municipio" : [
    "PR Aguas Buenas Municipio",
    "PR Caguas Municipio",
    "PR Carolina Municipio",
-   "PR CataÒo Municipio",
+   "PR Cata√±o Municipio",
    "PR Guaynabo Municipio",
    "PR San Juan Municipio",
    "PR Toa Baja Municipio",
@@ -28527,24 +28527,24 @@
    "PR San Lorenzo Municipio",
    "PR Yabucoa Municipio"
   ],
-"PR San Sebasti·n Municipio" : [
-   "PR AÒasco Municipio",
+"PR San Sebasti√°n Municipio" : [
+   "PR A√±asco Municipio",
    "PR Camuy Municipio",
    "PR Isabela Municipio",
    "PR Lares Municipio",
-   "PR Las MarÌas Municipio",
+   "PR Las Mar√≠as Municipio",
    "PR Moca Municipio",
    "PR Quebradillas Municipio",
-   "PR San Sebasti·n Municipio"
+   "PR San Sebasti√°n Municipio"
   ],
 "PR Santa Isabel Municipio" : [
    "PR Coamo Municipio",
-   "PR Juana DÌaz Municipio",
+   "PR Juana D√≠az Municipio",
    "PR Salinas Municipio",
    "PR Santa Isabel Municipio"
   ],
 "PR Toa Alta Municipio" : [
-   "PR BayamÛn Municipio",
+   "PR Bayam√≥n Municipio",
    "PR Corozal Municipio",
    "PR Dorado Municipio",
    "PR Naranjito Municipio",
@@ -28553,8 +28553,8 @@
    "PR Vega Alta Municipio"
   ],
 "PR Toa Baja Municipio" : [
-   "PR BayamÛn Municipio",
-   "PR CataÒo Municipio",
+   "PR Bayam√≥n Municipio",
+   "PR Cata√±o Municipio",
    "PR Dorado Municipio",
    "PR San Juan Municipio",
    "PR Toa Alta Municipio",
@@ -28580,14 +28580,14 @@
 "PR Vega Alta Municipio" : [
    "PR Corozal Municipio",
    "PR Dorado Municipio",
-   "PR ManatÌ Municipio",
+   "PR Manat√≠ Municipio",
    "PR Morovis Municipio",
    "PR Toa Alta Municipio",
    "PR Vega Alta Municipio",
    "PR Vega Baja Municipio"
   ],
 "PR Vega Baja Municipio" : [
-   "PR ManatÌ Municipio",
+   "PR Manat√≠ Municipio",
    "PR Morovis Municipio",
    "PR Vega Alta Municipio",
    "PR Vega Baja Municipio"
@@ -28598,7 +28598,7 @@
   ],
 "PR Villalba Municipio" : [
    "PR Coamo Municipio",
-   "PR Juana DÌaz Municipio",
+   "PR Juana D√≠az Municipio",
    "PR Orocovis Municipio",
    "PR Villalba Municipio"
   ],
@@ -28612,7 +28612,7 @@
   ],
 "PR Yauco Municipio" : [
    "PR Adjuntas Municipio",
-   "PR Gu·nica Municipio",
+   "PR Gu√°nica Municipio",
    "PR Guayanilla Municipio",
    "PR Lares Municipio",
    "PR Maricao Municipio",

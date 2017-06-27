@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import codecs
 
 def convert_full_county_name(full_county_name):
     '''
@@ -77,8 +78,8 @@ def main():
 
     # read contents of the county adjacency file
 
-    with open("county_adjacency.txt","r") as infile, \
-         open("county_adjacency.json","w") as outfile:
+    with codecs.open("county_adjacency.txt","r","iso-8859-1") as infile, \
+         codecs.open("county_adjacency.json","w","utf-8") as outfile:
          
  
         all_lines = infile.readlines()
