@@ -5,10 +5,56 @@ By Phill Conrad
 
 # What this library does
 
-This library provides a Python code that processes the data in the file https://www2.census.gov/geo/docs/reference/county_adjacency.txt (a copy of which is cached in this repo), and turns it into a JSON representation that easily allows a user to determine, for any US county, what counties are adjacent to that county (i.e. share a border with it.)
+This library provides a Python code that processes the data in the file [county_adjacency.txt](https://www2.census.gov/geo/docs/reference/county_adjacency.txt) (a copy of which is cached in this repo) as explained at the [US Census website](https://www.census.gov/geo/reference/county-adjacency.html).  It turns this data into a JSON representation that easily allows a user to determine, for any US county, what counties are adjacent to that county (i.e. share a border with it.)
 
-The library also provides a set convenience functions for doing computations over this data.
+For the current version of the library, only the data for US states and the District of Columbia  is included, since the intended use case of the library is for mashups with data that corresponds to those counties.  The District of Columbia is treated, for purposes of the library as a 51st state with a single county.   (Future work might extend this to the data in the file for US Territories (Puerto Rico, American Samoa, Guam, Northern Mariana Islands, and the Virgin Islands.)
 
+The library also provides a set convenience functions for doing computations over this data such as computing the first level neighborhood, second level neighborhood, etc.
+
+# The JSON produced
+
+The JSON produced has this form:
+
+```json
+{ "AL Autauga" : {
+     "AL Autauga",
+     "AL Chilton",
+     "AL Dallas",
+     "AL Elmore",
+     "AL Lowndes",
+     "AL Montgomery"]
+  },
+  "AL Baldwin" : {
+      ["AL Baldwin",
+       "AL Clarke",
+       "AL Escambia",
+       "AL Mobile",
+       "AL Monroe",
+       "AL Washington",
+       "FL Escambia"]
+  },
+  ...
+}
+
+We have prefixed each county name with its state abbreviation since there are cases of the same county name occuring in multiple states (e.g. Escambia is both a county in Alabama and a separate, adjacent county in Florida.   
+
+For comparison, here are corresponding lines of the input file.  Note that we have removed the word "county", since it creates an ambiguity (Louisiana uses the word "parish" instead of "county", and the District of Columbia is called simply that, i.e. `"District of Columbia, DC"`.   
+
+```
+"Autauga County, AL"	01001	"Autauga County, AL"	01001
+		"Chilton County, AL"	01021
+		"Dallas County, AL"	01047
+		"Elmore County, AL"	01051
+		"Lowndes County, AL"	01085
+		"Montgomery County, AL"	01101
+"Baldwin County, AL"	01003	"Baldwin County, AL"	01003
+		"Clarke County, AL"	01025
+		"Escambia County, AL"	01053
+		"Mobile County, AL"	01097
+		"Monroe County, AL"	01099
+		"Washington County, AL"	01129
+		"Escambia County, FL"	12033
+```
 # Details
 
 Counties are provided for:
